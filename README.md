@@ -1,2 +1,2 @@
 # k3d_dust
-volume rendering of the 3d structure of interstellar dust out to 1kpc (based on Leike+Lellement 3d dust maps)
+volume rendering of interstellar medium centered on the sun extending out to 1kpc (based on observations from Leike & Lellement 3d dust maps)
